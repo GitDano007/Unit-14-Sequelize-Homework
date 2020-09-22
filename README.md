@@ -8,5 +8,6 @@ GIVEN a Node.js application using Sequelize and Passport
 WHEN I follow the walkthrough
 THEN I understand the codebase
 
+Link to Google Document: https://docs.google.com/document/d/1ZfO-i12lLiJBOLFd5NpTDhlLrUiDJ9cx5uRx9yZMmvA/edit
 
 
